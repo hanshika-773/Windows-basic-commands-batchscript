@@ -93,7 +93,8 @@ Save the file and come back to command prompt. Now execute as BackupScript.bat
 
 ## OUTPUT
 
-![Uploading BackupScript.bat.png…]()
+![BackupScript bat](https://github.com/user-attachments/assets/f6e2abbe-aea1-4338-ad43-40af4fe126a0)
+
 
 
 
